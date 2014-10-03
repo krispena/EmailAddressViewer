@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmailAddressViewer</string>
+    <string name="add_email_hint">Enter an e-mail address</string>
+    <string name="menu_item_add">ADD</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="duplicate_email_title">Duplicate Email</string>
+    <string name="duplicate_email_message">That email address already exists.</string>
+
+</resources>
